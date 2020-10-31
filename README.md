@@ -1,4 +1,3 @@
-deco3500/7350_social_mobile_computing
 This is the README.md file for Mengqi Huang' project from Group Eco-co.
 
 Key links
